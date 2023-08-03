@@ -416,6 +416,34 @@
             </div>
           </div>
 
+          {{-- Mobil Honda ke - 8 --}}
+          <div class="col-lg-4 col-md-6 portfolio-item filter-honda">
+            <div class="portfolio-wrap">
+              <img src="{{asset('assets/img/folio-mobil/honda-crv.png')}}" class="img-fluid" alt="Honda CR-V">
+              <div class="portfolio-info">
+                <h4>Honda CR-V</h4>
+                <div class="portfolio-links">
+                  <a href="{{asset('assets/img/folio-mobil/honda-crv.png')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Honda HRV"><i class="bx bx-plus"></i></a>
+                  <a href="#" title="More Details"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {{-- Mobil Honda ke - 9 --}}
+          <div class="col-lg-4 col-md-6 portfolio-item filter-honda">
+            <div class="portfolio-wrap">
+              <img src="{{asset('assets/img/folio-mobil/honda-accord.png')}}" class="img-fluid" alt="Honda CR-V">
+              <div class="portfolio-info">
+                <h4>Honda CR-V</h4>
+                <div class="portfolio-links">
+                  <a href="{{asset('assets/img/folio-mobil/honda-accord.png')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Honda HRV"><i class="bx bx-plus"></i></a>
+                  <a href="#" title="More Details"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
